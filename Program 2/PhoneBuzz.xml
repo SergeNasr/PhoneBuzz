@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Gather action="http://a26e871e.ngrok.io/playfizzbuzz" method="get">
+		<Say>Please choose a number then press the pound sign</Say>
+	</Gather>
+</Response>
